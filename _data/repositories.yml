@@ -1,12 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
 
+---
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Foo-Lab/NF2_TranscriptomicsAnalysis
+  - cjmlee/NGS_Pipelines
+  - Foo-Lab/data-catalogue-frontend
+  - Foo-Lab/data-catalogue-backend

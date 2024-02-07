@@ -9,6 +9,7 @@ profile:
   image: mick.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Present Address: </p>
     <p>14 Medical Drive </p>
     <p>Cardiovascular Research Institute, Building MD6</p>
     <p>Singapore, 117599</p>
