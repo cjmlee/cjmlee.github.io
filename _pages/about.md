@@ -6,7 +6,7 @@ subtitle: Post-doctoral Scientist, National University of Singapore
 
 profile:
   align: center
-  image: mick.jpg
+  image: MickLee_Head.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Present Address: </p>
